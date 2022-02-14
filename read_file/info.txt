@@ -1,0 +1,3 @@
+Hello this is open file through Rust Language
+By Monesh soni
+I am succefully complet read operation in Rust
